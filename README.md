@@ -14,7 +14,7 @@ The purpose of this repository is solely to observe:
 
 The `root` entry is simply a symbolic link referencing the system root (`/`).  
 
-## Creation Command
+## Creation Commands
 
 ```sh
 mkdir myproject
